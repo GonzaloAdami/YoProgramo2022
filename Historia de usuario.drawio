@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T06:49:03.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="jse4yrst5S3-q2E_7jKy" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-13T06:50:40.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="b8EfqbCQXuZ_L36W3DnO" type="github">
   <diagram id="VT3ukQr_QPmnwt55tYps" name="Página-1">
     <mxGraphModel dx="1859" dy="1500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="O-t6rVWiQCJ-l5KhlSIw-54" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontColor=#000000;startSize=8;endSize=8;strokeWidth=2;strokeColor=#67AB9F;endArrow=diamondThin;endFill=1;startArrow=diamondThin;startFill=1;" edge="1" parent="1" source="O-t6rVWiQCJ-l5KhlSIw-2" target="O-t6rVWiQCJ-l5KhlSIw-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O-t6rVWiQCJ-l5KhlSIw-2" value="Editar foto de perfil" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;fillColor=#9ADFFC;strokeColor=none;gradientColor=none;swimlaneFillColor=#F2F2F2;rounded=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-674" y="-622" width="458.5" height="510" as="geometry" />
         </mxCell>
@@ -77,19 +80,29 @@
           <mxGeometry x="27.5" y="393.5" width="263" height="35" as="geometry" />
         </mxCell>
         <mxCell id="O-t6rVWiQCJ-l5KhlSIw-48" value="&lt;font color=&quot;#f2f2f2&quot;&gt;Detalles&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=1;fontSize=18;fontColor=#254EA1;fillColor=#588787;gradientColor=none;swimlaneFillColor=#F2F2F2;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-674" y="-47" width="341" height="259" as="geometry" />
+          <mxGeometry x="-643" y="-38" width="341" height="259" as="geometry" />
         </mxCell>
         <mxCell id="O-t6rVWiQCJ-l5KhlSIw-49" value="&lt;font color=&quot;#000000&quot;&gt;Debe representar algo tuyo, siendo&lt;br&gt;una parte importante de tu&lt;br&gt;identidad evitando cualquier&lt;br&gt;fondo que se considere&lt;br&gt;ofensivo o fuera de la línea del&lt;br&gt;programa&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#F2F2F2;" vertex="1" parent="O-t6rVWiQCJ-l5KhlSIw-48">
           <mxGeometry x="15" y="38" width="303" height="142" as="geometry" />
         </mxCell>
+        <mxCell id="O-t6rVWiQCJ-l5KhlSIw-55" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeColor=#67AB9F;strokeWidth=2;fontSize=18;fontColor=#000000;startArrow=diamondThin;startFill=1;endArrow=diamondThin;endFill=1;startSize=8;endSize=8;" edge="1" parent="1" source="O-t6rVWiQCJ-l5KhlSIw-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-92.33333333333326" y="47.111083984375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="O-t6rVWiQCJ-l5KhlSIw-50" value="&lt;font color=&quot;#f2f2f2&quot;&gt;Detalles&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=1;fontSize=18;fontColor=#254EA1;fillColor=#588787;gradientColor=none;swimlaneFillColor=#F2F2F2;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-185" y="161" width="368" height="259" as="geometry" />
+          <mxGeometry x="-185" y="162" width="368" height="259" as="geometry" />
         </mxCell>
         <mxCell id="O-t6rVWiQCJ-l5KhlSIw-51" value="&lt;font color=&quot;#000000&quot;&gt;A demas de permitir colocar cierto orden&amp;nbsp;&lt;br&gt;para cada parte de la informacion laboral&lt;br&gt;(Espacios para Titulos de puesto, periodo&lt;br&gt;y descripciones) se debe permitir subir&lt;br&gt;el logo de la empresa&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#F2F2F2;" vertex="1" parent="O-t6rVWiQCJ-l5KhlSIw-50">
           <mxGeometry x="15" y="49" width="353" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="O-t6rVWiQCJ-l5KhlSIw-56" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeColor=#67AB9F;strokeWidth=2;fontSize=18;fontColor=#000000;startArrow=diamondThin;startFill=1;endArrow=diamondThin;endFill=1;startSize=8;endSize=8;" edge="1" parent="1" source="O-t6rVWiQCJ-l5KhlSIw-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="O-t6rVWiQCJ-l5KhlSIw-52" value="&lt;font color=&quot;#f2f2f2&quot;&gt;Detalles&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=1;fontSize=18;fontColor=#254EA1;fillColor=#588787;gradientColor=none;swimlaneFillColor=#F2F2F2;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="365" y="215" width="368" height="259" as="geometry" />
+          <mxGeometry x="358" y="215" width="368" height="259" as="geometry" />
         </mxCell>
         <mxCell id="O-t6rVWiQCJ-l5KhlSIw-53" value="&lt;font color=&quot;#000000&quot;&gt;El usuario debe de tener un &lt;br&gt;&quot;Nombre de usuario&quot; a demas&lt;br&gt;de una contraseña para poder&lt;br&gt;iniciar seccion&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#F2F2F2;" vertex="1" parent="O-t6rVWiQCJ-l5KhlSIw-52">
           <mxGeometry x="15" y="60" width="261" height="98" as="geometry" />
