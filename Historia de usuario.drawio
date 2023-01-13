@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T06:39:17.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="JZ4xURicMe7pNPRqr5QU" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-13T06:49:03.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="jse4yrst5S3-q2E_7jKy" type="github">
   <diagram id="VT3ukQr_QPmnwt55tYps" name="Página-1">
     <mxGraphModel dx="1859" dy="1500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,6 +75,24 @@
         </mxCell>
         <mxCell id="O-t6rVWiQCJ-l5KhlSIw-46" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font color=&quot;#254ea1&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Entonces &lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;podra editar su perfil&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="O-t6rVWiQCJ-l5KhlSIw-39">
           <mxGeometry x="27.5" y="393.5" width="263" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="O-t6rVWiQCJ-l5KhlSIw-48" value="&lt;font color=&quot;#f2f2f2&quot;&gt;Detalles&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=1;fontSize=18;fontColor=#254EA1;fillColor=#588787;gradientColor=none;swimlaneFillColor=#F2F2F2;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-674" y="-47" width="341" height="259" as="geometry" />
+        </mxCell>
+        <mxCell id="O-t6rVWiQCJ-l5KhlSIw-49" value="&lt;font color=&quot;#000000&quot;&gt;Debe representar algo tuyo, siendo&lt;br&gt;una parte importante de tu&lt;br&gt;identidad evitando cualquier&lt;br&gt;fondo que se considere&lt;br&gt;ofensivo o fuera de la línea del&lt;br&gt;programa&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#F2F2F2;" vertex="1" parent="O-t6rVWiQCJ-l5KhlSIw-48">
+          <mxGeometry x="15" y="38" width="303" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="O-t6rVWiQCJ-l5KhlSIw-50" value="&lt;font color=&quot;#f2f2f2&quot;&gt;Detalles&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=1;fontSize=18;fontColor=#254EA1;fillColor=#588787;gradientColor=none;swimlaneFillColor=#F2F2F2;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-185" y="161" width="368" height="259" as="geometry" />
+        </mxCell>
+        <mxCell id="O-t6rVWiQCJ-l5KhlSIw-51" value="&lt;font color=&quot;#000000&quot;&gt;A demas de permitir colocar cierto orden&amp;nbsp;&lt;br&gt;para cada parte de la informacion laboral&lt;br&gt;(Espacios para Titulos de puesto, periodo&lt;br&gt;y descripciones) se debe permitir subir&lt;br&gt;el logo de la empresa&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#F2F2F2;" vertex="1" parent="O-t6rVWiQCJ-l5KhlSIw-50">
+          <mxGeometry x="15" y="49" width="353" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="O-t6rVWiQCJ-l5KhlSIw-52" value="&lt;font color=&quot;#f2f2f2&quot;&gt;Detalles&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=1;fontSize=18;fontColor=#254EA1;fillColor=#588787;gradientColor=none;swimlaneFillColor=#F2F2F2;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="215" width="368" height="259" as="geometry" />
+        </mxCell>
+        <mxCell id="O-t6rVWiQCJ-l5KhlSIw-53" value="&lt;font color=&quot;#000000&quot;&gt;El usuario debe de tener un &lt;br&gt;&quot;Nombre de usuario&quot; a demas&lt;br&gt;de una contraseña para poder&lt;br&gt;iniciar seccion&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#F2F2F2;" vertex="1" parent="O-t6rVWiQCJ-l5KhlSIw-52">
+          <mxGeometry x="15" y="60" width="261" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
